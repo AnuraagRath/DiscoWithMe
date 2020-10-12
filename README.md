@@ -6,7 +6,7 @@ A simple MusicPlayer using Python Tkinter, pygame and os module. Play your saved
 
 ![app](/images/1.png)
 
-*Playing Fantasie Impromptu by Chopin
+*Playing The Marriage of Figaro by Wolfgang Amadeus Mozart
 
 ![app2](/images/2.png)
 
@@ -14,3 +14,8 @@ A simple MusicPlayer using Python Tkinter, pygame and os module. Play your saved
 
 ![Dir](/images/3.png)
 
+Enjoyyyyy
+
+Yours Truely,
+
+Anuraag Rath
